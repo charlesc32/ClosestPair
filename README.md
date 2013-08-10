@@ -10,9 +10,9 @@ Your program should accept as its first argument a path to a filename.The input 
 0 2  
 6 67  
 43 71  
-39 107
-189 140
-0
+39 107  
+189 140  
+0  
 Output sample:
 
 For each set of input produce a single line of output containing a floating point number (with four digits after the decimal point) which denotes the distance between the closest two points. If there is no such two points in the input whose distance is less than 10000, print the line INFINITY. eg.
